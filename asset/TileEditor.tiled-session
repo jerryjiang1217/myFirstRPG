@@ -1,0 +1,182 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/level1.tmx": {
+            "scale": 1.17,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.08547008547015,
+                "y": 267.5213675213675
+            }
+        },
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/level2.tmx": {
+            "scale": 1.17,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.51282051282055,
+                "y": 320.51282051282055
+            }
+        },
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/level3.tmx": {
+            "scale": 1.17,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.51282051282055,
+                "y": 320.51282051282055
+            }
+        },
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/level4.tmx": {
+            "scale": 1.17,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 308.974358974359,
+                "y": 332.05128205128204
+            }
+        },
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/level5.tmx": {
+            "scale": 1.17,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.08547008547015,
+                "y": 320.0854700854701
+            }
+        },
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/main.tmx": {
+            "scale": 1.17,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.51282051282055,
+                "y": 370.94017094017096
+            }
+        },
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/tileset.tmx": {
+            "scale": 1.48,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -3197.972972972973,
+                "y": 208.10810810810807
+            }
+        },
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/tileset1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map_assets/map_assets/mytiles.tsx": {
+            "scaleInDock": 1
+        },
+        "map_assets/mytiles.tsx": {
+            "dynamicWrapping": true
+        },
+        "map_assets/mytileset_png.tmx": {
+            "scale": 1.98,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 225.25252525252523,
+                "y": 177.27272727272728
+            }
+        },
+        "map_assets/tileset_tomb_inside.tmx": {
+            "scale": 1.98,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 168.18181818181824,
+                "y": 170.2020202020202
+            }
+        },
+        "map_assets/tomb_1.tmx": {
+            "scale": 0.49,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 748.9795918367347,
+                "y": 642.8571428571429
+            }
+        },
+        "map_assets/tomb_L1.tmx": {
+            "scale": 0.78,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2242.3076923076924,
+                "y": 2691.0256410256407
+            }
+        },
+        "map_assets/tomb_L2.tmx": {
+            "scale": 0.61,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 875.4098360655738,
+                "y": 650.8196721311476
+            }
+        },
+        "map_assets/tomb_L3.tmx": {
+            "scale": 1.1199,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 188.40967943566392,
+                "y": 340.20894722743105
+            }
+        },
+        "map_assets/tomb_L4.tmx": {
+            "scale": 0.390390625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960.5763458074846,
+                "y": 960.5763458074845
+            }
+        },
+        "map_assets/tomb_inside.tsx": {
+            "dynamicWrapping": true
+        },
+        "map_test.tmx": {
+            "scale": 0.3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 773.3333333333335,
+                "y": 986.6666666666669
+            }
+        },
+        "mytileset_png.tmx": {
+            "scale": 0.99,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.7070707070707,
+                "y": 320.20202020202026
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/yanshuijiang/PycharmProjects/YJgame/MyFirstRPG/asset/map_assets",
+    "last.imagePath": "/Users/yanshuijiang/PycharmProjects/YJgame/MyFirstRPG/asset/map_assets",
+    "lastUsedTilesetExportFilter": "All Files (*)",
+    "map.height": 60,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+    ],
+    "project": "TileEditor.tiled-project",
+    "recentFiles": [
+        "map_test.tmx",
+        "map_assets/tomb_1.tmx",
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/level3.tmx",
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/tileset1.tsx",
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/level2.tmx",
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/tileset.tmx",
+        "/Users/yanshuijiang/PycharmProjects/EJgame/Donut_Platformer/main.tmx",
+        "map_assets/mytileset_png.tmx",
+        "TX Tileset Grass.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

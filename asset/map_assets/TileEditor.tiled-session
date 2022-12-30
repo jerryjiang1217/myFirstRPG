@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "TX Tileset Grass.tsx": {
+            "dynamicWrapping": false
+        },
+        "map_assets/mytiles.tsx": {
+            "dynamicWrapping": true
+        },
+        "map_assets/tomb_1.tmx": {
+            "scale": 0.49,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 801.0204081632653,
+                "y": 636.734693877551
+            }
+        },
+        "map_test.tmx": {
+            "scale": 0.3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 805,
+                "y": 816.6666666666665
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/yanshuijiang/PycharmProjects/YJgame/MyFirstRPG/asset",
+    "last.imagePath": "/Users/yanshuijiang/PycharmProjects/YJgame/MyFirstRPG/asset/map_assets",
+    "map.height": 20,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 20,
+    "openFiles": [
+    ],
+    "project": "TileEditor.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
